@@ -11,6 +11,49 @@
   font-family: Athletics;
 }
 
+@font-face {
+  font-family: mont;
+  src: url(/public/font/Mont-ExtraLightDEMO.otf);
+
+}
+
+.mont {
+  font-family: mont;
+}
+
+@font-face {
+  font-family: montHeavy;
+  src: url(/public/font/Mont-HeavyDEMO.otf);
+  ;
+
+}
+
+.montHeavy {
+  font-family: montHeavy;
+}
+
+
+@font-face {
+  font-family: proxima;
+  src: url(/public/font/Fontspring-DEMO-proximanovaexcn-regular.otf);
+  ;
+
+}
+
+.proxima {
+  font-family: proxima;
+}
+
+@font-face {
+  font-family: proximaMedium;
+  src: url(/public/font/Fontspring-DEMO-proximanova-medium.otf);
+  ;
+
+}
+
+.proximaMedium {
+  font-family: proximaMedium;
+}
 :root {
   font-family: Athletics, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
